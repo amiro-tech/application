@@ -1,7 +1,7 @@
 import json
 import os, sys
 
-# path from user: python test_students.py path
+# path from user: python list_students.py path
 path = sys.argv[1]
 
 def list_students():
