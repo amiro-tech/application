@@ -1,7 +1,7 @@
 Assumed directory layout:
-parent_directory/
-	wis-advanced-python-2021-2022/
-	application/
+parent_directory/\
+	wis-advanced-python-2021-2022/\
+	application/\
 		student_search.py
 
 Requirements:
